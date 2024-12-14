@@ -1,0 +1,1 @@
+import{r as t}from"./index.B3PfHquH.js";const a=()=>{const[i,s]=t.useState(!1),e=t.useCallback(()=>{const n=navigator.userAgent||navigator.vendor||window.opera,o=/android|mobile/i.test(n)||window.innerWidth<=768;s(o)},[]);return t.useEffect(()=>(e(),window.addEventListener("resize",e),()=>{window.removeEventListener("resize",e)}),[e]),i};export{a as u};

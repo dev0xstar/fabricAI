@@ -1,0 +1,186 @@
+{
+  "total" : {
+    "commits" : 350,
+    "changed" : 173187,
+    "added" : 39648,
+    "removed" : 133539,
+    "users" : [ "andrei-tara", "hnhparitosh", "web-flow", "nicsor", "pranav-fabric AI", "Awaish-fabric AI", "ionfabric AI" ]
+  },
+  "activity" : {
+    "2024-11-18T00:00:00.000+00:00" : {
+      "commits" : 3,
+      "changed" : 33,
+      "added" : 29,
+      "removed" : 4,
+      "users" : [ "andrei-tara" ]
+    },
+    "2024-12-03T00:00:00.000+00:00" : {
+      "commits" : 13,
+      "changed" : 7526,
+      "added" : 5062,
+      "removed" : 2464,
+      "users" : [ "hnhparitosh", "ionfabric AI" ]
+    },
+    "2024-11-28T00:00:00.000+00:00" : {
+      "commits" : 9,
+      "changed" : 220,
+      "added" : 135,
+      "removed" : 85,
+      "users" : [ "hnhparitosh", "ionfabric AI" ]
+    },
+    "2024-12-13T00:00:00.000+00:00" : {
+      "commits" : 25,
+      "changed" : 13221,
+      "added" : 12697,
+      "removed" : 524,
+      "users" : [ "andrei-tara", "hnhparitosh", "web-flow", "nicsor", "ionfabric AI" ]
+    },
+    "2024-11-25T00:00:00.000+00:00" : {
+      "commits" : 19,
+      "changed" : 3149,
+      "added" : 1733,
+      "removed" : 1416,
+      "users" : [ "andrei-tara", "hnhparitosh", "pranav-fabric AI" ]
+    },
+    "2024-11-20T00:00:00.000+00:00" : {
+      "commits" : 4,
+      "changed" : 426,
+      "added" : 184,
+      "removed" : 242,
+      "users" : [ "hnhparitosh", "pranav-fabric AI" ]
+    },
+    "2024-11-15T00:00:00.000+00:00" : {
+      "commits" : 17,
+      "changed" : 6081,
+      "added" : 171,
+      "removed" : 5910,
+      "users" : [ "ionfabric AI" ]
+    },
+    "2024-12-05T00:00:00.000+00:00" : {
+      "commits" : 9,
+      "changed" : 1494,
+      "added" : 1040,
+      "removed" : 454,
+      "users" : [ "andrei-tara", "hnhparitosh", "ionfabric AI" ]
+    },
+    "2024-12-10T00:00:00.000+00:00" : {
+      "commits" : 22,
+      "changed" : 2262,
+      "added" : 1522,
+      "removed" : 740,
+      "users" : [ "hnhparitosh", "andrei-tara", "web-flow", "ionfabric AI" ]
+    },
+    "2024-12-11T00:00:00.000+00:00" : {
+      "commits" : 11,
+      "changed" : 413,
+      "added" : 194,
+      "removed" : 219,
+      "users" : [ "andrei-tara", "ionfabric AI" ]
+    },
+    "2024-12-06T00:00:00.000+00:00" : {
+      "commits" : 13,
+      "changed" : 1045,
+      "added" : 890,
+      "removed" : 155,
+      "users" : [ "andrei-tara", "hnhparitosh", "nicsor", "ionfabric AI" ]
+    },
+    "2024-11-16T00:00:00.000+00:00" : {
+      "commits" : 4,
+      "changed" : 2243,
+      "added" : 2208,
+      "removed" : 35,
+      "users" : [ "nicsor", "ionfabric AI" ]
+    },
+    "2024-11-26T00:00:00.000+00:00" : {
+      "commits" : 24,
+      "changed" : 4310,
+      "added" : 3901,
+      "removed" : 409,
+      "users" : [ "andrei-tara", "hnhparitosh", "nicsor", "ionfabric AI" ]
+    },
+    "2024-11-21T00:00:00.000+00:00" : {
+      "commits" : 6,
+      "changed" : 107,
+      "added" : 102,
+      "removed" : 5,
+      "users" : [ ]
+    },
+    "2024-12-09T00:00:00.000+00:00" : {
+      "commits" : 26,
+      "changed" : 1283,
+      "added" : 785,
+      "removed" : 498,
+      "users" : [ "andrei-tara", "hnhparitosh", "nicsor" ]
+    },
+    "2024-11-29T00:00:00.000+00:00" : {
+      "commits" : 6,
+      "changed" : 668,
+      "added" : 131,
+      "removed" : 537,
+      "users" : [ "hnhparitosh", "nicsor" ]
+    },
+    "2024-12-04T00:00:00.000+00:00" : {
+      "commits" : 28,
+      "changed" : 118467,
+      "added" : 525,
+      "removed" : 117942,
+      "users" : [ "andrei-tara", "hnhparitosh", "ionfabric AI" ]
+    },
+    "2024-11-24T00:00:00.000+00:00" : {
+      "commits" : 3,
+      "changed" : 795,
+      "added" : 785,
+      "removed" : 10,
+      "users" : [ ]
+    },
+    "2024-11-19T00:00:00.000+00:00" : {
+      "commits" : 14,
+      "changed" : 261,
+      "added" : 178,
+      "removed" : 83,
+      "users" : [ "andrei-tara", "hnhparitosh" ]
+    },
+    "2024-11-14T00:00:00.000+00:00" : {
+      "commits" : 18,
+      "changed" : 1126,
+      "added" : 689,
+      "removed" : 437,
+      "users" : [ "hnhparitosh", "andrei-tara", "ionfabric AI" ]
+    },
+    "2024-11-22T00:00:00.000+00:00" : {
+      "commits" : 14,
+      "changed" : 2035,
+      "added" : 1191,
+      "removed" : 844,
+      "users" : [ "hnhparitosh", "andrei-tara", "nicsor", "ionfabric AI" ]
+    },
+    "2024-11-17T00:00:00.000+00:00" : {
+      "commits" : 2,
+      "changed" : 26,
+      "added" : 23,
+      "removed" : 3,
+      "users" : [ "nicsor" ]
+    },
+    "2024-12-12T00:00:00.000+00:00" : {
+      "commits" : 25,
+      "changed" : 4397,
+      "added" : 4266,
+      "removed" : 131,
+      "users" : [ "andrei-tara", "nicsor", "Awaish-fabric AI" ]
+    },
+    "2024-12-02T00:00:00.000+00:00" : {
+      "commits" : 22,
+      "changed" : 1241,
+      "added" : 1007,
+      "removed" : 234,
+      "users" : [ "hnhparitosh", "andrei-tara", "web-flow", "ionfabric AI" ]
+    },
+    "2024-11-27T00:00:00.000+00:00" : {
+      "commits" : 13,
+      "changed" : 358,
+      "added" : 200,
+      "removed" : 158,
+      "users" : [ "andrei-tara", "hnhparitosh", "ionfabric AI" ]
+    }
+  }
+}
